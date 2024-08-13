@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namith667&label=Profile%20views&color=0e75b6&style=flat" alt="namith667" /> </p>
 
-- 🔭 I’m currently working on **EcoHub**
+ <! ––  🔭 I’m currently Learning on **EcoHub**  –– !>
 
 - 🌱 I’m currently learning **React.js**
 
