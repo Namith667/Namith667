@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namith</h1>
-<h3 align="center">Building Skills One Line at a Time.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namith667&label=Profile%20views&color=0e75b6&style=flat" alt="namith667" /> </p>
 
