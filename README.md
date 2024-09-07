@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Go & Java**
 
 - 📫 How to reach me **namiththayyil@gmail.com**
 
